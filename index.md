@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Windows binary for ssreflect"
+---
+
 # Windows binary for ssreflect
 
 This ssreflect binary is compatible to the official Coq binary distribution.
