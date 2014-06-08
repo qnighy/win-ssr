@@ -1,0 +1,11 @@
+diff -ru coq-8.4pl4.orig/pretyping/evarconv.ml coq-8.4pl4/pretyping/evarconv.ml
+--- coq-8.4pl4.orig/pretyping/evarconv.ml	2014-04-25 00:13:03.000000000 +0900
++++ coq-8.4pl4/pretyping/evarconv.ml	2014-06-08 12:17:03.511957411 +0900
+@@ -222,7 +222,6 @@
+ 
+   (* Evar must be undefined since we have flushed evars *)
+   let () = if !debug_unification then
+-	     let open Pp in
+ 	     let pr_state (tm,l) =
+ 	       h 0 (Termops.print_constr tm ++ str "|" ++ cut ()
+ 		    ++ prlist_with_sep pr_semicolon

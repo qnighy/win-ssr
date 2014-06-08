@@ -1,0 +1,7 @@
+/linux/0007-Fix-ocamlopt-w.r.t.-binutils-2.21.patch
+/linux/bin
+/linux/camlp5-*
+/linux/coq-*
+/linux/ocaml-*
+/linux/lib
+/linux/man
