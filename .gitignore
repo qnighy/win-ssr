@@ -5,3 +5,6 @@
 /linux/ocaml-*
 /linux/lib
 /linux/man
+/linux/etc
+/linux/share
+/linux/ssreflect-*
