@@ -3,3 +3,4 @@ CAMLP5_VER=6.02.1
 COQ_VER=8.4pl4
 #COQ_VER=8.4pl3
 SSREFLECT_VER=1.5
+WIN_COQ_DIR=/cygdrive/c/coq-dist

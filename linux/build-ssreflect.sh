@@ -11,3 +11,4 @@ tar xf ssreflect-${SSREFLECT_VER}.tar.gz
 cd ssreflect-${SSREFLECT_VER}
 make Makefile.coq
 make -f ../ssreflect-pp.mk ssreflect-pp
+cp src/ssreflect.ml src/ssrmatching.ml ../..
