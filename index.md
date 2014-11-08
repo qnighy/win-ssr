@@ -9,6 +9,11 @@ This ssreflect binary is compatible to the official Coq binary distribution.
 
 ## Generated binaries
 
+### ssreflect/mathcomp 1.5 for coq-8.4pl5
+
+- [ssreflect-windows-8.4pl5.zip](https://onedrive.live.com/redir?resid=6A06E091EDF3886F%211066)
+- [mathcomp-windows-8.4pl5.zip](https://onedrive.live.com/redir?resid=6A06E091EDF3886F%211105)
+
 ### ssreflect/mathcomp 1.5 for coq-8.4pl4
 
 - [ssreflect-windows-8.4pl4.zip](https://onedrive.live.com/redir?resid=6A06E091EDF3886F%21922)
